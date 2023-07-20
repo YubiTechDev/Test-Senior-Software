@@ -2,7 +2,7 @@
 
 Deskripsi:
 
-Anda bertugas untuk mengembangkan fungsionalitas backend untuk sebuah website e-commerce . Website ini akan memungkinkan pengguna untuk menjelajahi produk, menambahkan item ke keranjang belanja, melanjutkan ke proses pembayaran, dan menyelesaikan pembelian. Juga, implementasikan fungsionalitas autentikasi pengguna dan pencarian produk.
+Anda bertugas untuk mengembangkan fungsionalitas untuk sebuah website e-commerce . Website ini akan memungkinkan pengguna untuk menjelajahi produk, menambahkan item ke keranjang belanja, melanjutkan ke proses pembayaran, dan menyelesaikan pembelian. Juga, implementasikan fungsionalitas autentikasi pengguna dan pencarian produk.
 
 ## Fungsi yang harus diimplementasikan:
 
